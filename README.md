@@ -17,7 +17,7 @@ Tutorial: Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_P
 
 ### How do I get set up? ###
 
-*N/A
+* N/A
 
 ### Contribution guidelines ###
 
