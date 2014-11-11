@@ -26,3 +26,9 @@ Tutorial: Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_P
 ### Who do I talk to? ###
 
 * roliveira.victor@gmail.com
+
+
+### Youtube ###
+
+* Channel: https://www.youtube.com/channel/UC_rQ1n5XXcx6nqkXCAr2vTg/
+* Game Video: https://www.youtube.com/watch?v=_j7iLhFOEwM
