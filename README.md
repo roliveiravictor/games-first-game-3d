@@ -8,8 +8,6 @@ Engine: Unreal 4
 Programming Language: C++
 IDE: Visual Studio 2013
 
-Tutorial: Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_Programming_-_1_-_Overview
-
 ### What is this repository for? ###
 
 * This is a backup code of my first game 3d ever developed
@@ -21,7 +19,7 @@ Tutorial: Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_P
 
 ### Contribution guidelines ###
 
-* N/A
+* Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_Programming_-_1_-_Overview
 
 ### Who do I talk to? ###
 
