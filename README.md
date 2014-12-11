@@ -19,7 +19,7 @@ IDE: Visual Studio 2013
 
 ### Contribution guidelines ###
 
-* Introduction to UE4 Programming - https://wiki.unrealengine.com/Introduction_to_UE4_Programming_-__1__-_Overview
+* Introduction to UE4 Programming - https://wiki.unrealengine.com/Category:Epic_Video_Playlists
 
 ### Who do I talk to? ###
 
