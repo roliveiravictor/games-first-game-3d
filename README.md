@@ -19,7 +19,7 @@ IDE: Visual Studio 2013
 
 ### Contribution guidelines ###
 
-* Unreal Tutorials - https://wiki.unrealengine.com/Introduction_to_UE4_Programming_-_1_-_Overview
+* Introduction to UE4 Programming - https://wiki.unrealengine.com/Introduction_to_UE4_Programming_-_1_-_Overview
 
 ### Who do I talk to? ###
 
